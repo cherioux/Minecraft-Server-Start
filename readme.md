@@ -1,7 +1,7 @@
 # Minecraft Server Start
 This program helps you run a minecraft server easier.
 #### Start of File
-### Server-Start.exe Version 1.4.02_1.4_1402.1USOQ43 Sierra  ![GitHub version](https://img.shields.io/badge/Version-1.4.02-brightgreen.svg)
+### Server-Start.exe Version 1.4  ![GitHub version](https://img.shields.io/badge/Version-1.4.02-brightgreen.svg)
   There are several options to help the user start a minecraft server, but only three options are displayed.
   
 		Enter "firstRun" (without quotes) when you first download the program and place it in the minecraft server's directory.
@@ -26,3 +26,4 @@ This program helps you run a minecraft server easier.
 	Don't rename the program. It should be named "Server-Start.exe" and nothing else. If its not, some features will not work.
 	
 This is the basics of the program.
+2021 Yeah this is dead I don't even have the source to remake this in python or something anymore, rip
